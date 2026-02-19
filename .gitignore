@@ -1,0 +1,13 @@
+# executables
+*.exe
+*.out
+
+# object files
+*.o
+*.obj
+
+# build folders
+output/
+
+# vscode settings (optional)
+.vscode/
